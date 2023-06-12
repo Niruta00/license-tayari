@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:notes_csit/datas/impdoc.dart';
+import 'package:notes_csit/models/impdoc.dart';
 
 class ImpCard extends StatelessWidget {
   final String? text;
